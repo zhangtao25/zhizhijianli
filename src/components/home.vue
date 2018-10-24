@@ -13,7 +13,7 @@
     color: white;
     border: 1px solid white;
     border-radius: 2vw;
-    width: 10vw;
+    width: 12vw;
     text-align: center;
     cursor: pointer;
     position: absolute;
